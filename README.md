@@ -1,4 +1,4 @@
-# Greencore Sales Brain landing
+# Network Brain landing
 
 Public landing package for Vercel.
 
